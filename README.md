@@ -1,2 +1,1 @@
-# Ray-Tracing-shaders
-Path Tracer
+# Ray-Tracing
